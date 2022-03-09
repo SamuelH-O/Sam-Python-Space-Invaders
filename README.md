@@ -1,5 +1,5 @@
-# Sam_Python_Space_Invaders
+# Sam-Python-Space-Invaders
 
 ## Description
 
-Ancien projet pour apprendre le langage orienté objet.
+Ancien projet pour apprendre le concept orienté objet.
